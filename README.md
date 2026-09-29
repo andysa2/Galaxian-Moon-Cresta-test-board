@@ -2,7 +2,7 @@
 
 A test PCB designed to plug into the edge connector of Galaxian and Nichibutsu style aracde boards.
 
-Provides a reset button and EPROM which would contain copies of the Galaxian and Moon Cresta test firmware available from the various arcade forums.
+The EPROM would contain copies of both the Galaxian and Moon Cresta test firmware, available from various arcade forums.
 The individual tests are selectable by dipswitch.
 
 Has been tested on the Midway and Nichibutsu hardware for such games as Galaxian, Moon Cresta, Moon Alien, Moon Alien II and Moon Quasar.
