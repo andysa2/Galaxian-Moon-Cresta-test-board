@@ -1,6 +1,6 @@
 # Galaxian / Moon Cresta Test PCB
 
-A test PCB designed to plug into the edge connector of Galaxian and Nichibutsu style aracde boards.
+A test PCB designed to plug into the edge connector of Galaxian and Nichibutsu style arcade boards.
 
 The EPROM would contain copies of both the Galaxian and Moon Cresta test firmware, available from various arcade forums.
 The individual tests are selectable by dipswitch.
